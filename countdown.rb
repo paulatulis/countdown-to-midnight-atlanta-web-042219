@@ -1,9 +1,10 @@
 #write your code here
 
-def countdown
- counter = 10
- while counter != 0
- puts 
-  counter -= 1 
-  
+def countdown(number)
+ number = 10
+ while number != 0
+ puts "#{number} SECOND(S)!"
+  number -= 1 
+  "HAPPY NEW YEAR!"
+end
 end
