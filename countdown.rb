@@ -9,4 +9,3 @@ def countdown(number)
    return "HAPPY NEW YEAR!"
 end
 end
-end
